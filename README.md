@@ -1,13 +1,10 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/26304279?v=4" >
 </p>
-<p align="center">
-  <text >박찬영</text>
-  <text >/ Frontend Engineer</text>
-</p>
 <blockquote >
   웹 프론트엔드 기술 리더십을 갖추고 엔지니어링팀을 이끌 줄 아는 젊은 리더
 </blockquote>
+<br>
 <h1>Histories 📚</h1>
 <ul>
   <li><b>안산공업고등학교</b> 웹 디자인 및 개발 기능반 강사</li>
