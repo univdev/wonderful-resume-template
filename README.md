@@ -8,7 +8,6 @@
 <blockquote style="text-align: center; padding: 8px 12px; font-style: italic;">
   웹 프론트엔드 기술 리더십을 갖추고 엔지니어링팀을 이끌 줄 아는 젊은 리더
 </blockquote>
-<br>
 <h1>Histories 📚</h1>
 <ul>
   <li><b>안산공업고등학교</b> 웹 디자인 및 개발 기능반 강사</li>
@@ -16,7 +15,6 @@
   <li><b>안산공업고등학교</b> 웹 디자인 및 개발 기능반 강사</li>
   <li>前 <b>스타셸 스튜디오</b> Frontend Engineer & Engineering Manager (2018.09 ~ 2021.07)</li>
 </ul>
-<br>
 <h1>Awards 🥇</h1>
 <ul>
   <li><b>2014</b> 고교생 멀티미디어 경진대회 '홈페이지 제작' 부문 장려상</li>
@@ -25,7 +23,6 @@
   <li><b>2016</b> 전국기능경기대회 웹 개발 부문 3위 동메달</li>
   <li><b>2019</b> 인천지방기능경기대회 웹 개발 부문 1위 금메달</li>
 </ul>
-<br>
 <h1>Projects ⭐</h1>
 <div style="margin-bottom: 20px;">
   <img style="border-radius: 12px; background-color: #EEE; width: 100px; height: 100px;">
@@ -64,13 +61,11 @@
   <li>Javascript</li>
   <li>Visual studio code</li>
 </ul>
-<br>
 <h1>Stats 📊</h1>
 
 [![Univdev's Stats](https://github-readme-stats.vercel.app/api?username=univdev)](https://github.com/univdev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=univdev)](https://github.com/univdev/github-readme-stats)
-<br>
 <h1>Recommend Me 🎉</h1>
 <blockquote style="text-align: left; padding: 8px 12px; font-style: italic;">
   이 곳에는 박찬영의 지인들이 추천사를 남겨주는 공간입니다! Pull request를 통해 추천사를 작성해주시면 추첨을 통해 감사를 드리겠습니다!
